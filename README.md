@@ -1,2 +1,2 @@
-# COLLEGE
-College website
+# DSU
+College
